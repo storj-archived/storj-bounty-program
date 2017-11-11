@@ -1,2 +1,2 @@
-Comapny Updates
+Company Updates
 ==============

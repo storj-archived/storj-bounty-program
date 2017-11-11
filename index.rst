@@ -11,23 +11,20 @@ Check this page daily - you’ll never know what promotional bounty we may list!
 .. _Storj labs: http://storj.io/
 
 The bounty program is organized into five sections:
-* :ref:`bounty-details`
-* :ref:`community-details`
-* :ref:`storj-updates`
-* :ref:`code-of-conduct`
-* :ref:`license`
 
-.. _bounty-details:
+ .. _rocketchat: https://community.storj.io/
 
 .. toctree::
    :maxdepth: 2
-   :caption: Bounty Details
 
-   projects-listed-for-bounties
-   project-submission-details
-   project-evaluation-details
-   general-project-resources
+   bounty-details
+   community-details
+   company-updates
+   code-of-conduct
+   license
 
+Each section should provide important information necessary to complete the bounty.  
+If you have any questions, reach out on `rocketchat`_.
 
 Indices and tables
 ==================

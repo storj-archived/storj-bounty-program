@@ -29,6 +29,8 @@ If you have any questions, reach out on `rocketchat`_.
 What are you waiting for? Check out `bounty details`_ to see
 technical and community-focused projects listed for bounties!
 
+ .. _bounty details: http://bounty-program.readthedocs.io/en/bounty-program-description/bounty-details.html
+
 Indices and tables
 ==================
 

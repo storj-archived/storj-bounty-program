@@ -1,12 +1,17 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to Storj's Bounty Program!
 ==================================================
 
-Contents:
+`Storj Labs`_ is excited to share with you the official page for the bounty program. 
+The bounty program’s purpose is to grow our ecosystem and encourage people to build, 
+use, and integrate with the Storj Platform.  We will have bounties for Storj-specific projects, 
+partner affiliated projects, bugs, open releases, events, translations, and so much more.  
+Our goal is to be inclusive of everyone that participates and contributes to Storj.  
+Check this page daily - you’ll never know what promotional bounty we may list!
+
+.. _Storj Labs: https://storj.io/
+
+Table of Contents:
+=================
 
 .. toctree::
    :maxdepth: 2

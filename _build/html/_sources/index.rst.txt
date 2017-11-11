@@ -8,21 +8,22 @@ partner affiliated projects, bugs, open releases, events, translations, and so m
 Our goal is to be inclusive of everyone that participates and contributes to Storj.  
 Check this page daily - you’ll never know what promotional bounty we may list!
 
-.. _Storj: https://storj.io/
+.. _Storj labs: http://storj.io/
 
-Table of Contents:
+* :ref:`bounty-details`
+
+Table of Contents
 =================
 
 .. toctree::
    :maxdepth: 2
-   :glob:
+   :caption: Bounty Details
 
    bounty-details
    community-details
    updates
    code-of-conduct
    license
-
 
 
 Indices and tables

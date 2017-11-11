@@ -10,19 +10,20 @@ Check this page daily - you’ll never know what promotional bounty we may list!
 
 .. _Storj labs: http://storj.io/
 
-Table of Contents:
+* :ref:`bounty-details`
+
+Table of Contents
 =================
 
 .. toctree::
    :maxdepth: 2
-   :glob:
+   :caption: Bounty Details
 
    bounty-details
    community-details
    updates
    code-of-conduct
    license
-
 
 
 Indices and tables

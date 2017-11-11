@@ -1,4 +1,4 @@
-Welcome to Storj's Bounty Program!
+Welcome to Storj's Bounty Program------!
 ==================================================
 
 `Storj Labs`_ is excited to share with you the official page for the bounty program. 
@@ -8,7 +8,7 @@ partner affiliated projects, bugs, open releases, events, translations, and so m
 Our goal is to be inclusive of everyone that participates and contributes to Storj.  
 Check this page daily - you’ll never know what promotional bounty we may list!
 
-.. _Storj Labs: https://storj.io/
+.. _Storj: https://storj.io/
 
 Table of Contents:
 =================
@@ -17,7 +17,11 @@ Table of Contents:
    :maxdepth: 2
    :glob:
 
-   *
+   bounty-details
+   community-details
+   updates
+   code-of-conduct
+   license
 
 
 

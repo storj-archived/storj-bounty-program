@@ -8,7 +8,7 @@ partner affiliated projects, bugs, open releases, events, translations, and so m
 Our goal is to be inclusive of everyone that participates and contributes to Storj.  
 Check this page daily - you’ll never know what promotional bounty we may list!
 
-.. _Storj Labs: https://storj.io/
+.. _Storj labs: http://storj.io/
 
 Table of Contents:
 =================

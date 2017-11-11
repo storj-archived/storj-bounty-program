@@ -24,7 +24,10 @@ The bounty program is organized into five sections:
    license
 
 Each section should provide important information necessary to complete the bounty.  
-If you have any questions, reach out on `rocketchat`_.
+If you have any questions, reach out on `rocketchat`_. 
+
+What are you waiting for? Check out `bounty details`_ to see
+technical and community-focused projects listed for bounties!
 
 Indices and tables
 ==================

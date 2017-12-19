@@ -10,7 +10,9 @@ Check this page daily - you’ll never know what promotional bounty we may list!
 
 .. _Storj labs: http://storj.io/
 
-There are five main sections to help you on your journey to complete the bounty:
+The bounty program is organized into five sections:
+
+ .. _rocketchat: https://community.storj.io/
 
 .. toctree::
    :maxdepth: 2
@@ -21,13 +23,13 @@ There are five main sections to help you on your journey to complete the bounty:
    code-of-conduct
    license
 
-Please familiarize yourselves with these sections. If you have any questions,
-reach out on `rocketchat`_. 
-
- .. _rocketchat: https://community.storj.io/
+Each section should provide important information necessary to complete the bounty.  
+If you have any questions, reach out on `rocketchat`_. 
 
 What are you waiting for? Check out `bounty details`_ to see
 technical and community-focused projects listed for bounties! 
+
+This section is updated daily
 
  .. _bounty details: http://bounty-program.readthedocs.io/en/bounty-program-description/bounty-details.html
 

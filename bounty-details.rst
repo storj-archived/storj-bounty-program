@@ -22,7 +22,7 @@ For our content to be accessbile to everyone, we need translators. It's our goal
 Bounties for content translations are the following:
 
 
-+------------+-----------------+---------------+-----------+----------------
++------------+-----------------+---------------+-----------+---------------+
 | Content    | Bounty in STORJ |   Date Active | Link      | Bounty Active |
 +============+=================+===============+===========+================
 | Newsletter | 20              | 12/22         |           | Yes           |

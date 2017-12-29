@@ -31,6 +31,8 @@ Bounties for content translations are the following:
 | Storj Bits  | 15              | 12/22         | `Token Lockup`_  | Yes           | Multiple      |
 +-------------+-----------------+---------------+------------------+---------------+---------------+
 
+Languages needed for translations:
+
 +-------------+-----------------+---------------+
 |  Language   | Story Bytes     | Storj Bits    |
 +=============+=================+===============+
@@ -60,24 +62,6 @@ Bounties for content translations are the following:
 +-------------+-----------------+---------------+
 | Hindi       | Incomplete      | Incomplete    |
 +-------------+-----------------+---------------+
-
-Languages needed for translations:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* French 
-* Italian
-* Dutch
-* Russian
-* German
-* Cantonese
-* Mandarin
-* Simplified Chinese
-* Japanese
-* Romaian
-* Arabic
-* Spanish
-* Korean
-* Hindi
 
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
 .. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups

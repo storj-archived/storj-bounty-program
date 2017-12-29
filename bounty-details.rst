@@ -1,7 +1,7 @@
 Bounty Details
 ==============
 
- The Storj community is large, that consists of developers, farmers, partners, and users that possess a wide range of skill sets. Our goal for the bounty program is to be inclusive, so our whole community can contribute. We are excited to offer technical and nontechnical bounties.  These bounties will continuously be updated - so check in at least once a week to see what's new! 
+ The Storj community is large, consisting of developers, farmers, partners, and users whom possess a wide range of skill sets. Our goal for the bounty program is to be inclusive, allowing our whole community to contribute. As such, we are excited to offer technical and nontechnical bounties.  These bounties will continuously be updated - so check in at least once a week to see what's new! 
 
 Non-Technical Bounties
 ----------------------

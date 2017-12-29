@@ -29,31 +29,23 @@ Bounties for content translations are the following:
 | Storj Bits  | 15              | 12/22         | `token lockup`_  | Yes           | Multiple      |
 +-------------+-----------------+---------------+------------------+---------------+---------------+
 
-+-------------+-----------------+-------------+------------------+---------------+-------------+
-| Level       | Bounty in STORJ | Date Active | Link             | Bounty Active | Languages   |
-+=============+=================+=============+==================+===============+=============+
-| Storj Bytes | 20              | 12/22       | `Q4 2017`_       | Yes           | Multiple    |
-+-------------+-----------------+-------------+-----------+----------------------+-------------+
-| Storj Bits  | 15              | 12/22       | `token lockup`_  | Yes           | Multiple    |
-+-------------+-----------------+-------------+------------------+---------------+-------------+
-
 Languages needed for translations:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-French 
-Italian
-Dutch
-Russian
-German
-Cantonese
-Mandarin
-Simplified Chinese
-Japanese
-Romaian
-Arabic
-Spanish
-Korean
-Hindi
+* French 
+* Italian
+* Dutch
+* Russian
+* German
+* Cantonese
+* Mandarin
+* Simplified Chinese
+* Japanese
+* Romaian
+* Arabic
+* Spanish
+* Korean
+* Hindi
 
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
 .. _token lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups

@@ -31,7 +31,7 @@ Bounties for content translations are the following:
 | Storj Bits  | 15              | 12/22         | `Token Lockup`_  | Yes           | Multiple      |
 +-------------+-----------------+---------------+------------------+---------------+---------------+
 
-Languages needed for translations:
+Languages needed for translations for the following content:
 
 +-------------+-----------------+---------------+
 |  Language   | Story Bytes     | Storj Bits    |

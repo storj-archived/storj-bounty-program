@@ -1,6 +1,8 @@
 Bounty Details
 ==============
 
+ The Storj community is large, that consists of developers, farmers, partners, and users that possess a wide range of skill sets. Our goal for the bounty program is to be inclusive, so our whole community can contribute. We are excited to offer technical and nontechnical bounties.  These bounties will continuously be updated - so check in at least once a week to see what's new! 
+
 Non-Technical Bounties
 ----------------------
 
@@ -17,7 +19,7 @@ Translations
 ~~~~~~~~~~~~~
 
 Our community is world wide where people may not speak English.
-For our content to be accessbile to everyone, we need translators. It's our goal to be inclusive and ensure everyone invested in Storj gets updates. Having translations of newsletters, blogs, and other content ensures this. 
+For our content to be accessbile to everyone, we need translators. It's our goal to be inclusive and ensure everyone invested in Storj gets updates. Having translations of newsletters, blogs, and other content assists in this initiative. 
 
 Bounties for content translations are the following:
 
@@ -26,7 +28,7 @@ Bounties for content translations are the following:
 +=============+=================+===============+==================+===============+===============+
 | Storj Bytes | 20              | 12/22         | `Q4 2017`_       | Yes           | Multiple      |
 +-------------+-----------------+---------------+------------------+---------------+---------------+
-| Storj Bits  | 15              | 12/22         | `token lockup`_  | Yes           | Multiple      |
+| Storj Bits  | 15              | 12/22         | `Token Lockup`_  | Yes           | Multiple      |
 +-------------+-----------------+---------------+------------------+---------------+---------------+
 
 Languages needed for translations:
@@ -48,6 +50,6 @@ Languages needed for translations:
 * Hindi
 
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
-.. _token lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups
+.. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups
 
 

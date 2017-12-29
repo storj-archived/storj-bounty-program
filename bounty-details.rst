@@ -14,31 +14,40 @@ There are a few ways you can earn bounties that don't involve code!
 .. _translations:
 
 Translations
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
 
 Our community is world wide where people may not speak English.
 For our content to be accessbile to everyone, we need translators. It's our goal to be inclusive and ensure everyone invested in Storj gets updates. Having translations of newsletters, blogs, and other content ensures this. 
 
 Bounties for content translations are the following:
 
++-------------+-----------------+---------------+------------------+---------------+---------------+
+| Content     | Bounty in STORJ | Date Active   | Link             | Bounty Active | Languages     |
++=============+=================+===============+==================+===============+================
+| Storj Bytes | 20              | 12/22         | `Q4 2017`_       | Yes           | Multiple      |
++-------------+-----------------+---------------+------------------+---------------+---------------+
+| Storj Bits  | 15              | 12/22         | `token lockup`_  | Yes           | Multiple      |
++-------------+-----------------+---------------+------------------+---------------+---------------+
 
-+------------+-----------------+---------------+-----------+---------------+
-| Content    | Bounty in STORJ |   Date Active | Link      | Bounty Active |
-+============+=================+===============+===========+================
-| Newsletter | 20              | 12/22         |           | Yes           |
-+------------+-----------------+---------------+-----------+---------------+
-| Blogs      | 15              | 12/22         |           | Yes           |
-+------------+-----------------+---------------+-----------+---------------+
-| Public     | Yes             | Yes           |           | Yes           |
-+------------+-----------------+---------------+-----------+----------------
+Languages needed for translations:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-+------------+------------+-------------+-----------+-------------+
-| Content    | Bounty     | Date Active | Search    | Viewing     |
-+============+============+=============+===========+=============+
-| Newsletter | 20 STORRJ  | 12/22       | No        | Yes         |
-+------------+------------+-------------+-----------+-------------+
-| Blogs      | 15 STORJ   | 12/22       | No        | Yes         |
-+------------+------------+-------------+-----------+-------------+
-| Public     | Yes        | Yes         | Yes       | Yes         |
-+------------+------------+-------------+-----------+-------------+
+French 
+Italian
+Dutch
+Russian
+German
+Cantonese
+Mandarin
+Simplified Chinese
+Japanese
+Romaian
+Arabic
+Spanish
+Korean
+Hindi
+
+.. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
+.. _token lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups
+
 

@@ -31,6 +31,36 @@ Bounties for content translations are the following:
 | Storj Bits  | 15              | 12/22         | `Token Lockup`_  | Yes           | Multiple      |
 +-------------+-----------------+---------------+------------------+---------------+---------------+
 
++-------------+-----------------+---------------+
+|  Language   | Story Bytes     | Storj Bits    |
++=============+=================+===============+
+| French      | Incomplete      | Incomplete    | 
++-------------+-----------------+---------------+
+| Italian     | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+| Dutch       | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+| German      | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+| Cantonese   | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+| Mandarin    | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+| Sim.Chinese | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+| Japanese    | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+| Romaina     | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+| Arabic      | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+| Spanish     | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+| Korean      | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+| Hindi       | Incomplete      | Incomplete    |
++-------------+-----------------+---------------+
+
 Languages needed for translations:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

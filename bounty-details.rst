@@ -9,7 +9,7 @@ Non-Technical Bounties
 There are a few ways you can earn bounties that don't involve code!
 
 * :ref:`Translations`
-* :ref:`guest writer for a blog posts`
+* :ref:`Guest Writer`
 * :ref:`attending and speaking at events and conferences`
 * :ref:`promotional bounties`
 
@@ -24,11 +24,11 @@ For our content to be accessbile to everyone, we need translators. It's our goal
 Bounties for content translations are the following:
 
 +-------------+-----------------+---------------+------------------+---------------+---------------+
-| Content     | Bounty in STORJ | Date Active   | Link             | Bounty Active | Languages     |
+| Content     | Bounty          | Date Active   | Link             | Bounty Active | Languages     |
 +=============+=================+===============+==================+===============+===============+
-| Storj Bytes | 20              | 12/22         | `Q4 2017`_       | Yes           | Multiple      |
+| Storj Bytes | $20 USD         | 12/22         | `Q4 2017`_       | Yes           | Multiple      |
 +-------------+-----------------+---------------+------------------+---------------+---------------+
-| Storj Bits  | 15              | 12/22         | `Token Lockup`_  | Yes           | Multiple      |
+| Storj Bits  | $15 USD         | 12/22         | `Token Lockup`_  | Yes           | Multiple      |
 +-------------+-----------------+---------------+------------------+---------------+---------------+
 
 Languages needed for translations for the following content:
@@ -66,4 +66,7 @@ Languages needed for translations for the following content:
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
 .. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups
 
+.. _Guest Writer:
 
+Guest Writer
+~~~~~~~~~~~~~

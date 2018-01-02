@@ -10,7 +10,7 @@ There are a few ways you can earn bounties that don't involve code!
 
 * :ref:`Translations`
 * :ref:`Guest Writer`
-* :ref:`attending and speaking at events and conferences`
+* :ref:`Attending Conferences and Events`
 * :ref:`promotional bounties`
 
 .. _translations:
@@ -71,7 +71,11 @@ Languages needed for translations for the following content:
 Guest Writer
 ~~~~~~~~~~~~~
 
-Storj is excited to feature guest writers on our community blog! We welcome anyone from the community to contribute ideas pertaining to technology, blockchain, future-forward thoughts on the industry & technology, and retrospectives of events and talks attended. You're welcome to submit an abstract or proposal to bounty@storj.io. We'll have a committee review your proposal submission and reply back within a week. 
+Storj is excited to feature guest writers on our community blog! We welcome anyone from the community to contribute ideas pertaining to technology, blockchain, future-forward thoughts on the industry & technology, and retrospectives of events and talks attended. You're welcome to submit an abstract or proposal to bounty@storj.io. We'll have a committee review your submission and reply back within a week. Please include in the email:
+* full name
+* any social media/website links
+* proposal that is 3-5 sentences long
+* links to any previous written material you've accomplished
 
 .. note:: Please do not submit your blog post without approval of your proposal or abstract.
 
@@ -87,6 +91,9 @@ Expectations for writers:
 * Clarity - points should be concise 
 * Concreteness - points should be illustarted and supported
 
+.. _Attending Conferences and Events:
 
+Attending Conferences and Events
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 

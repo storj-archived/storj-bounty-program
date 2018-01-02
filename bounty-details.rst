@@ -73,6 +73,16 @@ Guest Writer
 
 Storj is excited to feature guest writers on our community blog! We welcome anyone from the community to contribute ideas pertaining to technology, blockchain, future-forward thoughts on the industry & technology, and retrospectives of events and talks attended. You're welcome to submit an abstract or proposal to bounty@storj.io. We'll have a committee review your proposal and reply back within a week. 
 
+Why be a guest writer?
+* $100 USD in STORJ tokens 
+* Bio at the end of every post with
+
+
+
+
+Benefits to Guest Writers
+We offer the following benefits to guest writers on our blog:
+
 
 
 

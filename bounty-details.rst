@@ -71,7 +71,10 @@ Languages needed for translations for the following content:
 Guest Writer
 ~~~~~~~~~~~~~
 
-Storj is excited to feature guest writers on our community blog! We welcome anyone from the community to contribute ideas pertaining to technology, blockchain, future-forward thoughts on the industry & technology, and retrospectives of events and talks attended. You're welcome to submit an abstract or proposal to bounty@storj.io. We'll have a committee review your submission and reply back within a week. Please include in the email:
+Storj is excited to feature guest writers on our community blog! We welcome anyone from the community to contribute ideas pertaining to technology, blockchain, future-forward thoughts on the industry & technology, and retrospectives of events and talks attended. You're welcome to submit an abstract or proposal to bounty@storj.io. We'll have a committee review your submission and reply back within a week. 
+
+Please include in the email:
+
 * full name
 * any social media/website links
 * proposal that is 3-5 sentences long

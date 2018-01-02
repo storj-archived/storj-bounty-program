@@ -71,9 +71,11 @@ Languages needed for translations for the following content:
 Guest Writer
 ~~~~~~~~~~~~~
 
-Storj is excited to feature guest writers on our community blog! We welcome anyone from the community to contribute ideas pertaining to technology, blockchain, future-forward thoughts on the industry & technology, and retrospectives of events and talks attended. You're welcome to submit an abstract or proposal to bounty@storj.io. We'll have a committee review your proposal and reply back within a week. 
+Storj is excited to feature guest writers on our community blog! We welcome anyone from the community to contribute ideas pertaining to technology, blockchain, future-forward thoughts on the industry & technology, and retrospectives of events and talks attended. You're welcome to submit an abstract or proposal to bounty@storj.io. We'll have a committee review your proposal submission and reply back within a week. 
 
-Why be a guest writer?
+.. note:: Please do not submit your blog post without approval of your proposal or abstract.
+
+Benefits for being a guest writer:
 
 * $100 USD in STORJ tokens 
 * Bio at the end of every post with your picture

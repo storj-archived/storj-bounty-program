@@ -26,9 +26,9 @@ Bounties for content translations are the following:
 +-------------+-----------------+---------------+------------------+---------------+---------------+
 | Content     | Bounty          | Date Active   | Link             | Bounty Active | Languages     |
 +=============+=================+===============+==================+===============+===============+
-| Storj Bytes | $20 USD         | 12/22         | `Q4 2017`_       | Yes           | Multiple      |
+| Storj Bytes | $30 USD in STORJ| 12/22         | `Q4 2017`_       | Yes           | Multiple      |
 +-------------+-----------------+---------------+------------------+---------------+---------------+
-| Storj Bits  | $15 USD         | 12/22         | `Token Lockup`_  | Yes           | Multiple      |
+| Storj Bits  | $15 USD in STORJ| 12/22         | `Token Lockup`_  | Yes           | Multiple      |
 +-------------+-----------------+---------------+------------------+---------------+---------------+
 
 Languages needed for translations for the following content:
@@ -70,3 +70,10 @@ Languages needed for translations for the following content:
 
 Guest Writer
 ~~~~~~~~~~~~~
+
+Storj is excited to feature guest writers on our community blog! We welcome anyone from the community to contribute ideas pertaining to technology, blockchain, future-forward thoughts on the industry & technology, and retrospectives of events and talks attended. You're welcome to submit an abstract or proposal to bounty@storj.io. We'll have a committee review your proposal and reply back within a week. 
+
+
+
+
+

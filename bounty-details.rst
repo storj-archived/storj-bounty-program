@@ -3,7 +3,7 @@ Bounty Details
 
  The Storj community is large, consisting of developers, farmers, partners, and users whom possess a wide range of skill sets. Our goal for the bounty program is to be inclusive, allowing our whole community to contribute. As such, we are excited to offer technical and nontechnical bounties.  These bounties will continuously be updated - so check in at least once a week to see what's new! 
 
-Non-Technical Bounties
+Nontechnical Bounties
 ----------------------
 
 There are a few ways you can earn bounties that don't involve code!
@@ -12,6 +12,8 @@ There are a few ways you can earn bounties that don't involve code!
 * :ref:`Guest Writer`
 * :ref:`Attending Conferences and Events`
 * :ref:`Promotional Bounties`
+* :ref:`How to submit requests to for nontechnical bounties`
+* :ref:`How nontechnical bounties are reviewed`
 
 .. _translations:
 
@@ -105,6 +107,8 @@ Please include in the email:
 	* Any social media/website links
 	* Proposal that is 3-5 sentences long
 	* Links to any previous written material you've done
+	* Rock.Chat alias (if applicable)
+	* How you've interacted with Storj: i.e developer, farmer, token holder, and/or partner
 
 .. note:: Please do not submit your blog post without approval of your proposal or abstract.
 
@@ -113,7 +117,7 @@ Benefits for being a guest writer:
 	* $100 USD in STORJ tokens 
 	* You'll get some swag
 	* Bio at the end of every post with your picture
-	* Website and social media links
+	* We'll include your website and social media links
 
 Expectations for writers:
 	
@@ -152,6 +156,8 @@ Please submit an email of any events, conferences, and/or meetups you want to cr
 	* Detail information about the event, conference, and/or meetup-  please include any links that are relevant
 	* A little bio about yourself
 	* Any relevant projects or written material you've produced
+	* Rock.Chat alias (if applicable)
+	* How you've interacted with Storj: i.e developer, farmer, token holder, and/or partner
 
 We'll have a committee review your submission and reply back within a week.
 
@@ -166,5 +172,37 @@ January 08, 2018 - January 15, 2018 bounty:
     First 20 people to tweet at us with their Storj stickers on their labtops will get 5 STORJ tokens!
 
 
+.. _How to submit requests to for nontechnical bounties:
 
+How to submit requests to for nontechnical bounties
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In general, please include:
+	* Full name
+	* Short bio about who you are 
+	* Links to previous material you've done
+	* Rocket.Chat alias
+	* How you've interacted with Storj - i.e. developer, farmer, token holder, and/or partner
+	* Which bounty interests you 
+
+Translations:
+	* In addition to the above bullet points: 
+		* Please include which language(s) you want to translate. 
+
+Guest Writer
+	* In addition to the above bullet points
+		* Please include a 3-5 sentence summary of your blog proposal
+
+Attending Conferences and Events
+	* In addition to the above bullet points, please include:
+		* Detail information about the event, conference, and/or meetup-  please include any links that are relevant
+		* How Storj can support you: food, beverages, and etc 
+		* Feel free to include anything else you may need
+	
+All requests should go to bounty@storj.io. 
+
+.. _How nontechnical bounties are reviewed:
+
+How nontechnical bounties are reviewed
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

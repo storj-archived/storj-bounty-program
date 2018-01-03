@@ -23,16 +23,17 @@ For our content to be accessbile to everyone, we need translators. It's our goal
 
 Bounties for content translations are the following:
 
-+-------------+-----------------+---------------+---------------------+---------------+---------------+
-| Content     | Bounty          | Date Active   | Link                | Bounty Active | Languages     |
-+=============+=================+===============+=====================+===============+===============+
-| Storj Bytes | $50 USD in STORJ| 12/22         | `Q4 2017`_          | Yes           | Multiple      |
-+-------------+-----------------+---------------+---------------------+---------------+---------------+
-| Storj Bits  | $30 USD in STORJ| 12/22         | `Token Lockup`_     | Yes           | Multiple      |
-+-------------+-----------------+---------------+---------------------+---------------+---------------+
-| Code Conduct| $30 USD in STORJ| 12/22         | `Code Of Conduct`_  | Yes           | Multiple      |
-+-------------+-----------------+---------------+---------------------+---------------+---------------+
-Languages needed for translations for the following content:
++-------------+-----------------+---------------+---------------------+---------------+-------------------+
+| Content     | Bounty          | Date Active   | Link                | Word Count    | Payout            |            
++=============+=================+===============+=====================+===============+===================+
+| Storj Bytes | $50 USD in STORJ| 12/22         | `Q4 2017`_          | 1672          | $125 USD in STORJ |
++-------------+-----------------+---------------+---------------------+---------------+-------------------+
+| Storj Bits  | $30 USD in STORJ| 12/22         | `Token Lockup`_     | 604           | $50 USD in STORJ  |
++-------------+-----------------+---------------+---------------------+---------------+-------------------+
+| Code Conduct| $30 USD in STORJ| 12/22         | `Code Of Conduct`_  | 444           | $50 USF in STORJ  |
++-------------+-----------------+---------------+---------------------+---------------+-------------------+
+
+Languages needed for translations of the following content:
 
 +----------------+-----------------+---------------+-----------------+
 |  Language      | Story Bytes     | Storj Bits    | Code of Condcut |
@@ -69,6 +70,21 @@ Languages needed for translations for the following content:
 +----------------+-----------------+---------------+-----------------+
 | Serbo-Croation | Incomplete      | Incomplete    | Incomplete      |
 +----------------+-----------------+---------------+-----------------+
+
+Relationship between word count and payouts is done from the English version:
++-------------+-----------------+
+| Word Count  | Payout          |           
++=============+=================+
+| 100-400     |$25 USD in STORJ |
++-------------+-----------------+
+| 401-800     |$50 USD in STORJ |
++-------------+-----------------+
+| 801-1200    |$75 USD in STORJ |
++-------------+-----------------+
+| 1201-1600   |$100 USD in STORJ|
++-------------+-----------------+
+| 1601-2000   |$125 USD in STORJ|
++-------------+-----------------+
 
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
 .. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups

@@ -23,45 +23,46 @@ For our content to be accessbile to everyone, we need translators. It's our goal
 
 Bounties for content translations are the following:
 
-+-------------+-----------------+---------------+------------------+---------------+---------------+
-| Content     | Bounty          | Date Active   | Link             | Bounty Active | Languages     |
-+=============+=================+===============+==================+===============+===============+
-| Storj Bytes | $30 USD in STORJ| 12/22         | `Q4 2017`_       | Yes           | Multiple      |
-+-------------+-----------------+---------------+------------------+---------------+---------------+
-| Storj Bits  | $15 USD in STORJ| 12/22         | `Token Lockup`_  | Yes           | Multiple      |
-+-------------+-----------------+---------------+------------------+---------------+---------------+
-
++-------------+-----------------+---------------+---------------------+---------------+---------------+
+| Content     | Bounty          | Date Active   | Link                | Bounty Active | Languages     |
++=============+=================+===============+=====================+===============+===============+
+| Storj Bytes | $50 USD in STORJ| 12/22         | `Q4 2017`_          | Yes           | Multiple      |
++-------------+-----------------+---------------+---------------------+---------------+---------------+
+| Storj Bits  | $30 USD in STORJ| 12/22         | `Token Lockup`_     | Yes           | Multiple      |
++-------------+-----------------+---------------+---------------------+---------------+---------------+
+| Code Conduct| $30 USD in STORJ| 12/22         | `Code Of Conduct`_  | Yes           | Multiple      |
++-------------+-----------------+---------------+---------------------+---------------+---------------+
 Languages needed for translations for the following content:
 
-+-------------+-----------------+---------------+
-|  Language   | Story Bytes     | Storj Bits    |
-+=============+=================+===============+
-| French      | Incomplete      | Incomplete    | 
-+-------------+-----------------+---------------+
-| Italian     | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
-| Dutch       | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
-| German      | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
-| Cantonese   | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
-| Mandarin    | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
-| Sim.Chinese | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
-| Japanese    | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
-| Romaina     | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
-| Arabic      | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
-| Spanish     | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
-| Korean      | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
-| Hindi       | Incomplete      | Incomplete    |
-+-------------+-----------------+---------------+
++-------------+-----------------+---------------+-----------------+
+|  Language   | Story Bytes     | Storj Bits    | Code of Condcut |
++=============+=================+===============+=================+
+| French      | Incomplete      | Incomplete    | Incomplete      | 
++-------------+-----------------+---------------+-----------------+
+| Italian     | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Dutch       | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| German      | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Cantonese   | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Mandarin    | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Sim.Chinese | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Japanese    | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Romaina     | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Arabic      | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Spanish     | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Korean      | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Hindi       | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
 
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
 .. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups

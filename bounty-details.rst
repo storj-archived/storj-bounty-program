@@ -12,8 +12,8 @@ There are a few ways you can earn bounties that don't involve code!
 * :ref:`Guest Writer`
 * :ref:`Attending Conferences and Events`
 * :ref:`Promotional Bounties`
-* :ref:`How to submit requests to for nontechnical bounties`
-* :ref:`How nontechnical bounties are reviewed`
+* :ref:`How to Submit Requests for Nontechnical Bounties`
+* :ref:`How Nontechnical Bounties are Reviewed`
 
 .. _translations:
 
@@ -88,6 +88,8 @@ Relationship between word count and payouts is done from the English version:
 +-------------+-------------------+
 | 1601-2000   | $125 USD in STORJ |
 +-------------+-------------------+
+
+Please check out 
 
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
 .. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups
@@ -172,9 +174,9 @@ January 08, 2018 - January 15, 2018 bounty:
     First 20 people to tweet at us with their Storj stickers on their labtops will get 5 STORJ tokens!
 
 
-.. _How to submit requests to for nontechnical bounties:
+.. _How to Submit Requests for Nontechnical Bounties:
 
-How to submit requests to for nontechnical bounties
+How to Submit Requests for Nontechnical Bounties
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In general, please include:
@@ -201,8 +203,8 @@ Attending Conferences and Events
 	
 All requests should go to bounty@storj.io. 
 
-.. _How nontechnical bounties are reviewed:
+.. _How Nontechnical Bounties are Reviewed:
 
-How nontechnical bounties are reviewed
+How Nontechnical Bounties are Reviewed
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

@@ -121,7 +121,6 @@ Benefits for creating and/or attending events, conferences, and meetups:
 .. note:: Did we miss something that you may need? Email us at bounty@storj.io.
 
 Please submit an email of any events, conferences, and/or meetups you want to create and/or attend, and include:
-
 	* Full name
 	* Detail information about the event, conference, and/or meetup-  please include any links that are relevant
 	* A little bio about yourself

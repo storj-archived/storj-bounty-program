@@ -85,6 +85,7 @@ Please include in the email:
 Benefits for being a guest writer:
 
 * $100 USD in STORJ tokens 
+* You'll get some swag
 * Bio at the end of every post with your picture
 * Website and social media links
 
@@ -109,7 +110,12 @@ Storj has some exciting plans to visit some countries and attend events where so
 
 .. note:: Want to represent Storj in a way that's not listed above? Email us at: bounty@storj.io for consideration. 
 
+Benefits for creating and/or attending events, conferences, and meetups:
 
-
+* $100-$1000 USD in STORJ tokens
+* We'll send swag for you and/or the event
+* We'll feature you and the event on our community
+* Storj will support any event or meetups by providing food and beverages 
+* If you're speaking at a conference and referencing Storj, email us at bounty@storj.io to let us know additional support you may need
 
 

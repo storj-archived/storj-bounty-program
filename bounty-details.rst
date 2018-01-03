@@ -89,7 +89,7 @@ Relationship between word count and payouts is done from the English version:
 | 1601-2000   | $125 USD in STORJ |
 +-------------+-------------------+
 
-Please check out :ref:`How to Submit Requests for Nontechnical Bounties`.
+Please check out :ref:`How to Submit Requests for Nontechnical Bounties` if you'd like to do translations. 
 
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
 .. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups
@@ -101,22 +101,13 @@ Please check out :ref:`How to Submit Requests for Nontechnical Bounties`.
 Guest Writer
 ~~~~~~~~~~~~~
 
-Storj is excited to feature guest writers on our community blog! We welcome anyone from the community to contribute ideas pertaining to technology, blockchain, future-forward thoughts on the industry & technology, and retrospectives of events and talks attended. You're welcome to submit an abstract or proposal to bounty@storj.io. We'll have a committee review your submission and reply back within a week. 
-
-Please include in the email:
-	
-	* Full name
-	* Any social media/website links
-	* Proposal that is 3-5 sentences long
-	* Links to any previous written material you've done
-	* Rock.Chat alias (if applicable)
-	* How you've interacted with Storj: i.e developer, farmer, token holder, and/or partner
+Storj is excited to feature guest writers on our community blog! We welcome anyone from the community to contribute ideas pertaining to technology, blockchain, future-forward thoughts on the industry & technology, and retrospectives of events and talks attended. Please check out :ref:`How to Submit Requests for Nontechnical Bounties` if you want to be a guest writer. We'll have a committee review your submission and reply back within a week. 
 
 .. note:: Please do not submit your blog post without approval of your proposal or abstract.
 
 Benefits for being a guest writer:
 	
-	* $100 USD in STORJ tokens 
+	* $100 - $500 USD in STORJ tokens 
 	* You'll get some swag
 	* Bio at the end of every post with your picture
 	* We'll include your website and social media links
@@ -152,16 +143,7 @@ Benefits for creating and/or attending events, conferences, and meetups:
 
 .. note:: Did we miss something that you may need? Email us at bounty@storj.io.
 
-Please submit an email of any events, conferences, and/or meetups you want to create and/or attend, and include:
-	
-	* Full name
-	* Detail information about the event, conference, and/or meetup-  please include any links that are relevant
-	* A little bio about yourself
-	* Any relevant projects or written material you've produced
-	* Rock.Chat alias (if applicable)
-	* How you've interacted with Storj: i.e developer, farmer, token holder, and/or partner
-
-We'll have a committee review your submission and reply back within a week.
+Please check out :ref:`How to Submit Requests for Nontechnical Bounties` if you'd like to create and/or host meetups, conferences, events, or do speaker engagements.  We'll have a committee review your submission and reply back within a week.
 
 .. _Promotional Bounties:
 

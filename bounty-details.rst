@@ -30,7 +30,7 @@ Bounties for content translations are the following:
 +-------------+-----------------+---------------+---------------------+---------------+-------------------+
 | Storj Bits  | $30 USD in STORJ| 12/22         | `Token Lockup`_     | 604           | $50 USD in STORJ  |
 +-------------+-----------------+---------------+---------------------+---------------+-------------------+
-| Code Conduct| $30 USD in STORJ| 12/22         | `Code Of Conduct`_  | 444           | $50 USF in STORJ  |
+| Code Conduct| $30 USD in STORJ| 12/22         | `Code Of Conduct`_  | 444           | $50 USD in STORJ  |
 +-------------+-----------------+---------------+---------------------+---------------+-------------------+
 
 Languages needed for translations of the following content:
@@ -72,19 +72,19 @@ Languages needed for translations of the following content:
 +----------------+-----------------+---------------+-----------------+
 
 Relationship between word count and payouts is done from the English version:
-+-------------+-----------------+
-| Word Count  | Payout          |           
-+=============+=================+
-| 100-400     |$25 USD in STORJ |
-+-------------+-----------------+
-| 401-800     |$50 USD in STORJ |
-+-------------+-----------------+
-| 801-1200    |$75 USD in STORJ |
-+-------------+-----------------+
-| 1201-1600   |$100 USD in STORJ|
-+-------------+-----------------+
-| 1601-2000   |$125 USD in STORJ|
-+-------------+-----------------+
++-------------+-------------------+
+| Word Count  | Payout            |           
++=============+===================+
+| 100-400     | $25 USD in STORJ  |
++-------------+-------------------+
+| 401-800     | $50 USD in STORJ  |
++-------------+-------------------+
+| 801-1200    | $75 USD in STORJ  |
++-------------+-------------------+
+| 1201-1600   | $100 USD in STORJ |
++-------------+-------------------+
+| 1601-2000   | $125 USD in STORJ |
++-------------+-------------------+
 
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
 .. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups

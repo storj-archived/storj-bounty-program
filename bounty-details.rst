@@ -89,7 +89,7 @@ Relationship between word count and payouts is done from the English version:
 | 1601-2000   | $125 USD in STORJ |
 +-------------+-------------------+
 
-Please check out 
+Please check out :ref:`How to Submit Requests for Nontechnical Bounties`.
 
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
 .. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups

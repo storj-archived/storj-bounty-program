@@ -11,7 +11,7 @@ There are a few ways you can earn bounties that don't involve code!
 * :ref:`Translations`
 * :ref:`Guest Writer`
 * :ref:`Attending Conferences and Events`
-* :ref:`promotional bounties`
+* :ref:`Promotional Bounties`
 
 .. _translations:
 
@@ -75,10 +75,10 @@ Storj is excited to feature guest writers on our community blog! We welcome anyo
 
 Please include in the email:
 
-* full name
-* any social media/website links
-* proposal that is 3-5 sentences long
-* links to any previous written material you've done
+* Full name
+* Any social media/website links
+* Proposal that is 3-5 sentences long
+* Links to any previous written material you've done
 
 .. note:: Please do not submit your blog post without approval of your proposal or abstract.
 
@@ -115,7 +115,24 @@ Benefits for creating and/or attending events, conferences, and meetups:
 * $100-$1000 USD in STORJ tokens
 * We'll send swag for you and/or the event
 * We'll feature you and the event on our community
-* Storj will support any event or meetups by providing food and beverages 
+* Storj will support any events or meetups by providing food and beverages 
 * If you're speaking at a conference and referencing Storj, email us at bounty@storj.io to let us know additional support you may need
+
+.. note:: Did we miss something that you may need? Email us at bounty@storj.io.
+
+Please submit an email of any events, conferences, and/or meetups you want to create and/or attend, and include:
+
+* Full name
+* Detail information about the event, conference, and/or meetup-  please include any links that are relevant
+* A little bio about yourself
+* Any relevant projects or written material you've produced
+
+We'll have a committee review your submission and reply back within a week.
+
+.. _Promotional Bounties:
+
+Promotional Bounties
+~~~~~~~~~~~~~~~~~~~~~
+
 
 

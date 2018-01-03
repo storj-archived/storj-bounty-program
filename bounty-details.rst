@@ -78,7 +78,7 @@ Please include in the email:
 * full name
 * any social media/website links
 * proposal that is 3-5 sentences long
-* links to any previous written material you've accomplished
+* links to any previous written material you've done
 
 .. note:: Please do not submit your blog post without approval of your proposal or abstract.
 
@@ -98,5 +98,18 @@ Expectations for writers:
 
 Attending Conferences and Events
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Storj has some exciting plans to visit some countries and attend events where some of our community members live. Unfortunately, we won't be able make all the events, workshops, conferences, and meetups that are developer and blockchain-focused. So, we're offerring some bounties to our community for the following:
+
+* Creating a monthly Storj meetup
+* Attending blockchain and developered focused conferences/events & representing Storj 
+* Hosting a workshop about integrating the Storj data layer into applications 
+* Giving a talk about Storj
+* Being featured in a podcast or video
+
+.. note:: Want to represent Storj in a way that's not listed above? Email us at: bounty@storj.io for consideration. 
+
+
+
 
 

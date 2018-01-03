@@ -75,25 +75,25 @@ Storj is excited to feature guest writers on our community blog! We welcome anyo
 
 Please include in the email:
 
-* Full name
-* Any social media/website links
-* Proposal that is 3-5 sentences long
-* Links to any previous written material you've done
+	* Full name
+	* Any social media/website links
+	* Proposal that is 3-5 sentences long
+	* Links to any previous written material you've done
 
 .. note:: Please do not submit your blog post without approval of your proposal or abstract.
 
 Benefits for being a guest writer:
 
-* $100 USD in STORJ tokens 
-* You'll get some swag
-* Bio at the end of every post with your picture
-* Website and social media links
+	* $100 USD in STORJ tokens 
+	* You'll get some swag
+	* Bio at the end of every post with your picture
+	* Website and social media links
 
 Expectations for writers:
 
-* Content must be original and not plagerized
-* Clarity - points should be concise 
-* Concreteness - points should be illustarted and supported
+	* Content must be original and not plagerized
+	* Clarity - points should be concise 
+	* Concreteness - points should be illustarted and supported
 
 .. _Attending Conferences and Events:
 
@@ -102,21 +102,21 @@ Attending Conferences and Events
 
 Storj has some exciting plans to visit some countries and attend events where some of our community members live. Unfortunately, we won't be able make all the events, workshops, conferences, and meetups that are developer and blockchain-focused. So, we're offerring some bounties to our community for the following:
 
-* Creating a monthly Storj meetup
-* Attending blockchain and developered focused conferences/events & representing Storj 
-* Hosting a workshop about integrating the Storj data layer into applications 
-* Giving a talk about Storj
-* Being featured in a podcast or video
+	* Creating a monthly Storj meetup
+	* Attending blockchain and developered focused conferences/events & representing Storj 
+	* Hosting a workshop about integrating the Storj data layer into applications 
+	* Giving a talk about Storj
+	* Being featured in a podcast or video
 
 .. note:: Want to represent Storj in a way that's not listed above? Email us at: bounty@storj.io for consideration. 
 
 Benefits for creating and/or attending events, conferences, and meetups:
 
-* $100-$1000 USD in STORJ tokens
-* We'll send swag for you and/or the event
-* We'll feature you and the event on our community
-* Storj will support any events or meetups by providing food and beverages 
-* If you're speaking at a conference and referencing Storj, email us at bounty@storj.io to let us know additional support you may need
+	* $100-$1000 USD in STORJ tokens
+	* We'll send swag for you and/or the event
+	* We'll feature you and the event on our community
+	* Storj will support any events or meetups by providing food and beverages 
+	* If you're speaking at a conference and referencing Storj, email us at bounty@storj.io to let us know additional support you may need
 
 .. note:: Did we miss something that you may need? Email us at bounty@storj.io.
 

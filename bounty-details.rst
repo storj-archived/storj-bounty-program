@@ -134,5 +134,11 @@ We'll have a committee review your submission and reply back within a week.
 Promotional Bounties
 ~~~~~~~~~~~~~~~~~~~~~
 
+Storj is excited to offer promotional bounties that are meant to be fun. The promotional bounty will change weekly. Always check this page to see if there are any updates!
+
+Promotional Bounties
+    First 20 people to tweet at us with their Storj stickers on their labtops will get 5 STORJ coins!
+
+
 
 

@@ -72,7 +72,7 @@ Languages needed for translations for the following content:
 
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017
 .. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups
-.. _Code Of Conduct: http://bounty-program.readthedocs.io/en/bounty-details/code-of-conduct.html
+.. _Code Of Conduct: http://bounty-program.readthedocs.io/en/latest/code-of-conduct.html
 
 
 .. _Guest Writer:

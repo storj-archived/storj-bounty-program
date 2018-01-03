@@ -53,7 +53,7 @@ Languages needed for translations for the following content:
 +-------------+-----------------+---------------+-----------------+
 | Japanese    | Incomplete      | Incomplete    | Incomplete      |
 +-------------+-----------------+---------------+-----------------+
-| Romaina     | Incomplete      | Incomplete    | Incomplete      |
+| Romainan    | Incomplete      | Incomplete    | Incomplete      |
 +-------------+-----------------+---------------+-----------------+
 | Arabic      | Incomplete      | Incomplete    | Incomplete      |
 +-------------+-----------------+---------------+-----------------+
@@ -62,6 +62,12 @@ Languages needed for translations for the following content:
 | Korean      | Incomplete      | Incomplete    | Incomplete      |
 +-------------+-----------------+---------------+-----------------+
 | Hindi       | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Portugese   | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Russian     | Incomplete      | Incomplete    | Incomplete      |
++-------------+-----------------+---------------+-----------------+
+| Serbian     | Incomplete      | Incomplete    | Incomplete      |
 +-------------+-----------------+---------------+-----------------+
 
 .. _Q4 2017: http://blog.storj.io/post/168761643398/storj-bytes-community-newsletter-q4-2017

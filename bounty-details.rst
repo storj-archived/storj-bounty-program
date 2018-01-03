@@ -3,6 +3,19 @@ Bounty Details
 
  The Storj community is large, consisting of developers, farmers, partners, and users whom possess a wide range of skill sets. Our goal for the bounty program is to be inclusive, allowing our whole community to contribute. As such, we are excited to offer technical and nontechnical bounties.  These bounties will continuously be updated - so check in at least once a week to see what's new! 
 
+Technical Bounties
+----------------------
+will update later
+
+* :ref:`Python Bindings`
+
+.. _Python Bindings:
+
+Python Bindings
+~~~~~~~~~~~~~~~
+
+more stuff
+
 Nontechnical Bounties
 ----------------------
 
@@ -195,4 +208,18 @@ How Nontechnical Bounties are Reviewed
 There is a committee of 6 people that review requests once a week on Thursdays at 6pm-7pm UTC. We will send a reply on Thursdays to notify you of the decision. 
 
 
+GPG Signatures
+---------------
+After you submitted content you done, you'll need to get paid! You will need to send an encrypted email of your ERC20 address to bountyPayments@storj.io. If you do not send an encrypted email, you will not get paid.  If you need help with setting up GPG signatures, please reach out on `Rocket Chat`_ , specifically the #gpgsignature channel. 
 
+.. _Rocket Chat: https://community.storj.io/home
+
+
+* :ref:`Setup for GPG Signature`
+
+.. _Setup for GPG Signature:
+
+Setup for GPG Signature
+~~~~~~~~~~~~~~~~~~~~~~~
+
+more stuff

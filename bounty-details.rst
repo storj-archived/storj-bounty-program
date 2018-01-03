@@ -74,6 +74,7 @@ Guest Writer
 Storj is excited to feature guest writers on our community blog! We welcome anyone from the community to contribute ideas pertaining to technology, blockchain, future-forward thoughts on the industry & technology, and retrospectives of events and talks attended. You're welcome to submit an abstract or proposal to bounty@storj.io. We'll have a committee review your submission and reply back within a week. 
 
 Please include in the email:
+	
 	* Full name
 	* Any social media/website links
 	* Proposal that is 3-5 sentences long
@@ -82,12 +83,14 @@ Please include in the email:
 .. note:: Please do not submit your blog post without approval of your proposal or abstract.
 
 Benefits for being a guest writer:
+	
 	* $100 USD in STORJ tokens 
 	* You'll get some swag
 	* Bio at the end of every post with your picture
 	* Website and social media links
 
 Expectations for writers:
+	
 	* Content must be original and not plagerized
 	* Clarity - points should be concise 
 	* Concreteness - points should be illustarted and supported
@@ -108,6 +111,7 @@ Storj has some exciting plans to visit some countries and attend events where so
 .. note:: Want to represent Storj in a way that's not listed above? Email us at: bounty@storj.io for consideration. 
 
 Benefits for creating and/or attending events, conferences, and meetups:
+	
 	* $100-$1000 USD in STORJ tokens
 	* We'll send swag for you and/or the event
 	* We'll feature you and the event on our community
@@ -117,6 +121,7 @@ Benefits for creating and/or attending events, conferences, and meetups:
 .. note:: Did we miss something that you may need? Email us at bounty@storj.io.
 
 Please submit an email of any events, conferences, and/or meetups you want to create and/or attend, and include:
+	
 	* Full name
 	* Detail information about the event, conference, and/or meetup-  please include any links that are relevant
 	* A little bio about yourself

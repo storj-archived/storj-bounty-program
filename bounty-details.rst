@@ -122,10 +122,10 @@ Benefits for creating and/or attending events, conferences, and meetups:
 
 Please submit an email of any events, conferences, and/or meetups you want to create and/or attend, and include:
 
-* Full name
-* Detail information about the event, conference, and/or meetup-  please include any links that are relevant
-* A little bio about yourself
-* Any relevant projects or written material you've produced
+	* Full name
+	* Detail information about the event, conference, and/or meetup-  please include any links that are relevant
+	* A little bio about yourself
+	* Any relevant projects or written material you've produced
 
 We'll have a committee review your submission and reply back within a week.
 
@@ -136,7 +136,7 @@ Promotional Bounties
 
 Storj is excited to offer promotional bounties that are meant to be fun. The promotional bounty will change weekly. Always check this page to see if there are any updates!
 
-January 08, 2018 - January 15, 2018 Bounty:
+January 08, 2018 - January 15, 2018 bounty:
     First 20 people to tweet at us with their Storj stickers on their labtops will get 5 STORJ coins!
 
 

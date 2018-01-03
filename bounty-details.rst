@@ -30,7 +30,7 @@ Bounties for content translations are the following:
 +-------------+-----------------+---------------------+---------------+-------------------+
 | Storj Bits  | 12/22           | `Token Lockup`_     | 604           | $50 USD in STORJ  |
 +-------------+-----------------+---------------+-----+---------------+-------------------+
-| Code Conduct| $12/22          | `Code Of Conduct`_  | 444           | $50 USD in STORJ  |
+| Code Conduct| 12/22           | `Code Of Conduct`_  | 444           | $50 USD in STORJ  |
 +-------------+-----------------+---------------------+---------------+-------------------+
 
 Languages needed for translations of the following content:

@@ -139,7 +139,7 @@ Promotional Bounties
 Storj is excited to offer promotional bounties that are meant to be fun. The promotional bounty will change weekly. Always check this page to see if there are any updates!
 
 January 08, 2018 - January 15, 2018 bounty:
-    First 20 people to tweet at us with their Storj stickers on their labtops will get 5 STORJ coins!
+    First 20 people to tweet at us with their Storj stickers on their labtops will get 5 STORJ tokens!
 
 
 

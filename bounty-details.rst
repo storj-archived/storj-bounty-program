@@ -72,6 +72,7 @@ Languages needed for translations of the following content:
 +----------------+-----------------+---------------+-----------------+
 
 Relationship between word count and payouts is done from the English version:
+
 +-------------+-------------------+
 | Word Count  | Payout            |           
 +=============+===================+

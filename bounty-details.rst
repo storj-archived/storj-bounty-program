@@ -68,6 +68,7 @@ Languages needed for translations for the following content:
 .. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups
 
 .. _Guest Writer:
+.. _Code Of Conduct: http://bounty-program.readthedocs.io/en/bounty-details/code-of-conduct.html
 
 Guest Writer
 ~~~~~~~~~~~~~

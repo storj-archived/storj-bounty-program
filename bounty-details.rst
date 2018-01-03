@@ -185,8 +185,14 @@ Attending Conferences and Events
 	
 All requests should go to bounty@storj.io. 
 
+.. note:: Deadlines for requests to be reviewed for the current week will be 6PM UTC on Wednesdays. 
+
 .. _How Nontechnical Bounties are Reviewed:
 
 How Nontechnical Bounties are Reviewed
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+There is a committee of 6 people that review requests once a week on Thursdays at 6pm-7pm UTC. We will send a reply on Thursdays to notify you of the decision. 
+
+
 

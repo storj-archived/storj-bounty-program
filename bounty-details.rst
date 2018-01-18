@@ -5,16 +5,26 @@ Bounty Details
 
 Technical Bounties
 ----------------------
-will update later
+Know some code? Want to help us build bindings, tutorials, and/or developer tools and earn some STORJ tokens? Check out what we have! 
 
 * :ref:`Python Bindings`
+* :ref:`Tutorials`
+* :ref:`Third Party Developer Tools`
 
 .. _Python Bindings:
 
 Python Bindings
 ~~~~~~~~~~~~~~~
 
-more stuff
+//more stuff
+
+.. _Tutorials:
+
+Tutorials
+~~~~~~~~~~
+Our community technical acuity ranges from beginner to expert.  Building projects and having clearly written tutorials of how to build these projects assists developers across all languages, technical experiences, and technical levels get quickly onboarded. It's one of the most valuable tools developers can have to understand how the APIs are integrated to a larger project. Our goal is to ensure all our technical community members can clearly use the API in a well-defined project. As such, we are offerring bounties for really well-written tutorials. 
+
+//write some more stuff
 
 Nontechnical Bounties
 ----------------------

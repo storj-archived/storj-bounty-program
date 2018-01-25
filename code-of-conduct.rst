@@ -30,8 +30,8 @@ Examples of unacceptable behavior by participants include:
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
-  * This includes, but is not limited to, use of profanity. Please replace those words with other acceptable words. Don’t know what to replace it with? Check out this `post`_. 
-
+	* This includes, but is not limited to, use of profanity. Please replace those words with other acceptable words. Don’t know what to replace it with? Check out this `post`_. 
+	
   .. _post: https://www.huffingtonpost.com/2014/01/16/curse-words_n_4570641.html
 
 Our Responsibilities
@@ -50,8 +50,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 Enforcement
 -----------
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at conduct@storj.io. All
-complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at conduct@storj.io. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership or maintainers.
 
@@ -61,4 +60,3 @@ Attribution
 This Code of Conduct is adapted from the `Contributor Covenant`_ version 1.4.
 
 .. _Contributor Covenant: https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-

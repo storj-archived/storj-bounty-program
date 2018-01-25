@@ -100,7 +100,6 @@ Please check out :ref:`How to Submit Requests for Nontechnical Bounties` if you'
 .. _Token Lockup: http://blog.storj.io/post/168735310988/an-announcement-about-storj-token-lock-ups
 .. _Code Of Conduct: http://bounty-program.readthedocs.io/en/latest/code-of-conduct.html
 
-
 .. _Guest Writer:
 
 Guest Writer
@@ -164,7 +163,7 @@ January 08, 2018 - January 15, 2018 bounty:
 .. _How to Submit Requests for Nontechnical Bounties:
 
 How to Submit Requests for Nontechnical Bounties
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In general, please include:
 	* Full name

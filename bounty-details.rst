@@ -1,30 +1,12 @@
 Bounty Details
 ==============
 
- The Storj community is large, consisting of developers, farmers, partners, and users whom possess a wide range of skill sets. Our goal for the bounty program is to be inclusive, allowing our whole community to contribute. As such, we are excited to offer technical and nontechnical bounties.  These bounties will continuously be updated - so check in at least once a week to see what's new! 
+ The Storj community is large, consisting of developers, farmers, partners, and users whom possess a wide range of skill sets. Our goal for the bounty program is to be inclusive, allowing our whole community to contribute. As such, we are excited to offer technical and nontechnical bounties. These bounties will continuously be updated - so check in at least once a week to see what's new! 
 
-Technical Bounties
-----------------------
-Know some code? Want to help us build bindings, tutorials, and/or developer tools and earn some STORJ tokens? Check out what we have! 
+ Technical bounties will be added soon. Check our `twitter`_ for updates!
 
-* :ref:`Python Bindings`
-* :ref:`Tutorials`
-* :ref:`Third Party Developer Tools`
-
-.. _Python Bindings:
-
-Python Bindings
-~~~~~~~~~~~~~~~
-
-//more stuff
-
-.. _Tutorials:
-
-Tutorials
-~~~~~~~~~~
-Our community technical acuity ranges from beginner to expert.  Building projects and having clearly written tutorials of how to build these projects assists developers across all languages, technical experiences, and technical levels get quickly onboarded. It's one of the most valuable tools developers can have to understand how the APIs are integrated to a larger project. Our goal is to ensure all our technical community members can clearly use the API in a well-defined project. As such, we are offerring bounties for really well-written tutorials. 
-
-//write some more stuff
+.. _twitter: https://twitter.com/storjproject
+ 
 
 Nontechnical Bounties
 ----------------------

@@ -1,9 +1,9 @@
 Bounty Details
 ==============
 
- The Storj community is large, consisting of developers, farmers, partners, and users whom possess a wide range of skill sets. Our goal for the bounty program is to be inclusive, allowing our whole community to contribute. As such, we are excited to offer technical and nontechnical bounties. These bounties will continuously be updated - so check in at least once a week to see what's new! 
+The Storj community is large, consisting of developers, farmers, partners, and users whom possess a wide range of skill sets. Our goal for the bounty program is to be inclusive, allowing our whole community to contribute. As such, we are excited to offer technical and nontechnical bounties. These bounties will continuously be updated - so check in at least once a week to see what's new! 
 
- Technical bounties will be added soon. Check our `twitter`_ for updates!
+ Technical bounties will be added soon. Check out our `twitter`_ for updates!
 
 .. _twitter: https://twitter.com/storjproject
  
@@ -25,8 +25,7 @@ There are a few ways you can earn bounties that don't involve code!
 Translations
 ~~~~~~~~~~~~~
 
-Our community is world wide where people may not speak English.
-For our content to be accessbile to everyone, we need translators. It's our goal to be inclusive and ensure everyone invested in Storj gets updates. Having translations of newsletters, blogs, and other content assists in this initiative. 
+Our community is world wide where people may not speak English. For our content to be accessible to everyone, we need translators. It's our goal to be inclusive and ensure everyone invested in Storj gets updates. Having translations of newsletters, blogs, and other content assists in this initiative. 
 
 Bounties for content translations are the following:
 
@@ -201,7 +200,7 @@ There is a committee of 6 people that review requests once a week on Thursdays a
 
 GPG Signatures
 ---------------
-After you submitted content you've done, it's time to get paid! You will need to send an encrypted email of your ERC20 address to bountyPayments@storj.io. If you do not send an encrypted email, you will not get paid.  If you need help with setting up GPG signatures, please reach out on `Rocket Chat`_ , specifically the #gpgsignature channel. 
+After you submitted content you've done, it's time to get paid! You will need to send an encrypted email of your ERC20 address to bounty.payments@storj.io. If you do not send an encrypted email, you will not get paid.  If you need help with setting up GPG signatures, please reach out on `Rocket Chat`_ , specifically the #gpgsignature channel. 
 
 .. _Rocket Chat: https://community.storj.io/home
 

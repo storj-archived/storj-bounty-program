@@ -35,7 +35,7 @@ There are plenty of ways you can keep tabs of annoucements, events, and giveaway
 * `Storj Blog`_
 * `Reddit`_
 * `Facebook`_
-* `Telegram_
+* `Telegram`_
 * `Instagram`_
 
 .. _Twitter: https://twitter.com/storjproject

@@ -200,14 +200,14 @@ There is a committee of 6 people that review requests once a week on Thursdays a
 
 GPG Signatures
 ---------------
-After you submitted content you've done, it's time to get paid! You will need to send an encrypted email of your ERC20 address to bounty.payments@storj.io. If you do not send an encrypted email, you will not get paid.  If you need help with setting up GPG signatures, please reach out on `Rocket Chat`_ , specifically the #gpgsignature channel. 
+After you submitted content you've done, it's time to get paid! You will need to send an encrypted email of your ERC20 address to bounty.payments@storj.io. If you do not send an encrypted email, you will not get paid.  If you need help with setting up GPG signatures, please reach out on `Rocket Chat`_ , specifically the #gpg-signature channel. 
 
 .. _Rocket Chat: https://community.storj.io/home
 
 
 * :ref:`Setup for GPG Signature`
 
-.. _Setup for GPG Signature:
+.. _Setup for GPG Signature: 
 
 Setup for GPG Signature
 ~~~~~~~~~~~~~~~~~~~~~~~

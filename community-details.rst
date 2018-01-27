@@ -35,7 +35,7 @@ Rocket Chat Channel
 Social Media
 ~~~~~~~~~~~~~
 
-There are plenty of ways you can keep tabs of annoucements, events, and giveaways!
+Following our social media accounts is the best way to see what's new with Storj. Here are the ways you can keep tabs of annoucements, events, and giveaways:
 
 * `Twitter`_
 * `Storj Blog`_

@@ -22,7 +22,7 @@ Rocket Chat Channel
 @littleskunk 
 	* some text
 @meije 
-	* some text
+	* Meije is Dutch and resides in Rotterdam. He speaks five languages and is active on most of our communication platforms. He is a geology master student at Utrecht University with a strong interest in blockchain, mapping, renewable energy, UAV's, and VR. He loves gaining a deep understanding on the interaction between the user and the available applications to be able to better serve the user.
 @stefanbenten 
 	* some text
 @Alexey

@@ -22,7 +22,7 @@ Storj has an active and growing community on Rocket.Chat. It's a melting pot of 
 	* some text
 
 
-* :ref:`Social Media`
+:ref:`Social Media`
 
 .. _Social Media:
 

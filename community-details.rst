@@ -26,7 +26,7 @@ Rocket Chat Channel
 @stefanbenten 
 	* some text
 @Alexey
-	* Alexey currently resides in St.Petersburg, Russia and helps with our Russian rocket chat channel. He has over 29 years experience in technology, with a specfic focus on dev ops. He loves helping people who are getting started on Storj. You can reach out to him if you need assistance in Russian, becoming a Farmer on the network, using the Storj cloud, hardware obstacles, and assistance in getting setup on wallets.
+	* Alexey currently resides in St.Petersburg, Russia.  He's bilingual, assisting on the Russian rocket chat channel as well as the general English channels. He has over 29 years experience in technology, with a specfic focus on dev ops. He loves helping people who are getting started on Storj. You can reach out to him if you need assistance in Russian, becoming a Farmer on the network, using the Storj cloud, hardware obstacles, and assistance in getting setup on wallets.
 @cryptobubble
 	* some text
 

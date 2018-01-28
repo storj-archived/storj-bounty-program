@@ -8,7 +8,6 @@ Curious to see what major annoucements or relases Storj has? Check out below to 
 * :ref:`Major Software Releases`
 * :ref:`Major Product Releases`
 
-
 .. _Annoucements:
 
 Annoucements
@@ -22,29 +21,23 @@ Annoucements
 
 .. _Storj Scales: http://blog.storj.io/
 
+.. _Press Releases:
 
-
-.. _Press Release:
-
-Press Release
+Press Releases
 ~~~~~~~~~~~~~~~
 
 +----------------+------------------------------------+--------------------+
 |  Date          | Synopsis                           | Link	           |
 +================+====================================+====================+
-| 01/19/2018     | Computer World's Article on Storj  | `Computer World`_  | 
+| 01/19/2018     | Computer World's Article on Storage| `Computer World`_  | 
 +----------------+------------------------------------+--------------------+
 
 .. _Computer World: https://www.computerworld.com/article/3250274/data-storage/blockchain-and-cryptocurrency-may-soon-underpin-cloud-storage.html
-
-
-
 
 .. _Major Software Releases:
 
 Major Software Releases
 ~~~~~~~~~~~~~~~~~~~~~~~~
-
 
 
 .. _Major Product Releases:

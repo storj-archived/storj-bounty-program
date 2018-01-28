@@ -21,15 +21,15 @@ Rocket Chat Channel
 @heunland 
 	* Helene holds an A.A.S. in Computer Science, and a B.S. and M.Sci. in Hydrology and Water Resources. She is well versed in the latest developments in the crypto-currency space. She coordinates relations between the Storj team and its Community, directs the team of Community moderators and attends all types of customer support questions on Storj's social media and other support channels in three languages. You can ask her anything about Storj, crypto trading and safe management of your STORJ tokens.
 @littleskunk 
-	* 
+	* Ping @littleskunk with any developement or farmer-related questions.
 @meije 
 	* Meije is Dutch and resides in Rotterdam. He speaks five languages and is active on most of our communication platforms. He is a geology master student at Utrecht University with a strong interest in blockchain, mapping, renewable energy, UAV's, and VR. He loves gaining a deep understanding on the interaction between the user and the available applications to be able to better serve the user.
 @stefanbenten 
 	* Stefan is a mechanical engineer from Germany. He is very interested in IT, hardware/software solutions, as well as cryptocurrencies. As an active community leader, Stefan will support and answer most questions regarding the setup and technical issues one might encounter. Feel free to contact him in case of general questions and/or specific technical problems. Stefan strives to give new users an optimal start with Storj's platform. 
 @Alexey
 	* Alexey currently resides in St.Petersburg, Russia.  He's bilingual, assisting on the Russian rocket chat channel as well as the general English channels. He has over 29 years experience in technology, with a specific focus on dev ops. He loves helping people who are getting started on Storj. You can reach out to him if you need assistance in Russian, becoming a Farmer on the network, using the Storj cloud, hardware obstacles, and assistance in getting setup on wallets.
-@cryptobubble
-	* some text
+@nic 
+	* He joined Storj around 2014 and has since been helping around with his wide ranging skill set including community management and development, social media, customer services, communications, and project management. You can find him on Telegram (@CRYPTOBUBBLE) and Rocket Chat (@nic).
 
 .. _Social Media:
 

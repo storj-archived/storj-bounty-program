@@ -20,7 +20,7 @@ Annoucements
 | 01/19/2018     | Storj is scaling!   | `Storj Scales`_    | 
 +----------------+---------------------+--------------------+
 
-.. _Storj Scales: https://twitter.com/storjproject
+.. _Storj Scales: http://blog.storj.io/
 
 
 
@@ -35,7 +35,7 @@ Press Release
 | 01/19/2018     | Computer World's Article on Storj  | `Computer World`_  | 
 +----------------+------------------------------------+--------------------+
 
-.. _Computer World: https://twitter.com/storjproject
+.. _Computer World: https://www.computerworld.com/article/3250274/data-storage/blockchain-and-cryptocurrency-may-soon-underpin-cloud-storage.html
 
 
 

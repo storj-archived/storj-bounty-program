@@ -6,6 +6,7 @@ Storj has an active and growing community that is over 150,000 members. It's a m
 * :ref:`Rocket Chat Channel`
 * :ref:`Social Media`
 
+
 .. _Rocket Chat Channel:
 
 Rocket Chat Channel

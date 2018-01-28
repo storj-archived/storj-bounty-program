@@ -16,7 +16,7 @@ Rocket Chat Channel
   .. _Rocket Chat: https://storj.io/community.html
 
 @knowledge
-	* some text
+	* Knowledge is from Cleveland, Ohio, USA and has decades of experience in software development and systems administration. He's happy to assist anyone who needs more information about Storj, help with any aspects of installing and running the software, and support developers who need guidance on working with the existing tools.
 @heunland 
 	* Helene holds an A.A.S. in Computer Science, and a B.S. and M.Sci. in Hydrology and Water Resources. She is well versed in the latest developments in the crypto-currency space. She coordinates relations between the Storj team and its Community, directs the team of Community moderators and attends all types of customer support questions on Storj's social media and other support channels in three languages. You can ask her anything about Storj, crypto trading and safe management of your STORJ tokens.
 @littleskunk 

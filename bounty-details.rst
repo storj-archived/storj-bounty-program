@@ -207,7 +207,7 @@ It’s our policy that any financial transactions submitted, must go through an 
 
 
 STEP 1: Navigate to the Keybase homepage
-========================================
+----------------------------------------
 
 `Keybase`_ provides public keys that can be trusted without you having to talk to the person of interest. If you don't have an account, you can get started by creating a new account on the `Keybase homepage`_. Click on ``Login`` on the right side of the headers:
 
@@ -218,7 +218,7 @@ STEP 1: Navigate to the Keybase homepage
 .. _Keybase homepage: https://keybase.io/
 
 STEP 2: Join Keybase
-====================
+--------------------
 
 After you've clicked on the ``Login`` button, you should see this pop-up:
 
@@ -227,7 +227,7 @@ After you've clicked on the ``Login`` button, you should see this pop-up:
 Click on ``Join Keybase``. 
 
 STEP 3: Activate account
-=========================
+------------------------
 
 Enter your email address, username (easiest to use your rocketchat alias), and choose a strong passphrase. Do not use create easy, hackable passwords like `123456`. After your information is entered, the screen should look something like this:
 
@@ -236,7 +236,7 @@ Enter your email address, username (easiest to use your rocketchat alias), and c
 Click on ``Activate!``.
 
 STEP 4: Add PGP key
-====================
+--------------------
 
 After you've clicked on the ``Activate!`` button, you should be navigated to a dashboard like this:
 
@@ -245,7 +245,7 @@ After you've clicked on the ``Activate!`` button, you should be navigated to a d
 Click on ``add a PGP Key``.
 
 STEP 5: Get public key
-======================
+----------------------
 
 You should get the following pop-up:
 
@@ -254,7 +254,7 @@ You should get the following pop-up:
 If you have a PGP key, you can enter it via the option ``I have one already``. In this tutorial, we assume you don’t have one and need a public key. Please click on ``I need a public key`` to proceed.
 
 STEP 6: Generate public key
-===========================
+---------------------------
 
 After you've clicked on ``I need a public key``, you should see this: 
 
@@ -263,7 +263,7 @@ After you've clicked on ``I need a public key``, you should see this:
 Click on ``Ok, got it``.
 
 STEP 7: Add account(s) to have public key
-=========================================
+------------------------------------------
 
 Shortly after, you'll get a screen where you should enter your name and email address(es) you want to associate with your public key. After you've filled out the information, it should look like this:
 
@@ -272,7 +272,7 @@ Shortly after, you'll get a screen where you should enter your name and email ad
 Click on ``Let the math begin``.
 
 STEP 8: Associate account(s) with public key
-============================================
+--------------------------------------------
 
 After you've click, there is going to be some magic that happens in the background:
 
@@ -285,7 +285,7 @@ After a minute or so you'll see your public key:
 Click on ``Done post to Keybase``.
 
 STEP 9: Verify GitHub and Twitter
-=================================
+---------------------------------
 
 You have successfully created a GPG Key and linked it to your account. The Dashboard should change to look like this:
 

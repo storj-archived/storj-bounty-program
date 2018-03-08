@@ -216,7 +216,7 @@ Setup for GPG Signature
 STEP 1
 -------
 
-`Keybase`_ provides public keys that can be trusted without you having to talk to the person of interest. If you don't have an account, you can get started by creating a new account on the `Keybase homepage`_:
+`Keybase`_ provides public keys that can be trusted without you having to talk to the person of interest. If you don't have an account, you can get started by creating a new account on the `Keybase homepage`_. Click on Login on the right side of the headers:
 
 .. figure:: static/keybase-homepage.png
 
@@ -227,27 +227,34 @@ STEP 1
 STEP 2
 -------
 
-Click on Login at the right hand side on the header and you should see this pop-up:
+After you've clicked on the :Login: button, you should see this pop-up:
 
 .. figure:: static/keybase-login-screen.png
+
+Click on :Join Keybase:. 
 
 STEP 3
 -------
 
-Click on Join Keybase. Enter your email address, username (easiest to use your rocketchat alias), and choose a strong passphrase. Do not use create easy, hackable passwords like `123456`. After your information is entered, the screen should look something like this:
+Enter your email address, username (easiest to use your rocketchat alias), and choose a strong passphrase. Do not use create easy, hackable passwords like `123456`. After your information is entered, the screen should look something like this:
 
 .. figure:: static/keybase-join.png
 
+Click on :Activate:.
+
 STEP 4
 -------
-Click on :Activate:. You should be navigated to a dashboard like this:
+
+After you've clicked on the :Activate: button, you should be navigated to a dashboard like this:
 
 .. figure:: static/keybase-dashboard.png
+
+Click on :Add a GPG Key:.
 
 STEP 5
 -------
 
-Now click on :Add a GPG Key:. You should get the following pop-up:
+ You should get the following pop-up:
 
 .. figure:: static/keybase-join.png
 

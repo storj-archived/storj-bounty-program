@@ -254,7 +254,7 @@ Now click on :Add a GPG Key:. You should get the following pop-up:
 
 If you have a GPG key, you can enter it via the option :I have one already:. In this tutorial, we assume you don’t have one and need a public key. Please click on :I need a public key: to proceed.
 
-STEP 5
+STEP 6
 -------
 After you've clicked on one of the options from :STEP 5:,you should see this: 
 
@@ -274,13 +274,13 @@ Wait until some magic has been done in the background. You'll get a display with
 
 Click on :Done post to Keybase:. Now you have successfully created a GPG Key and linked it to your account. The Dashboard should change to look like this:
 
-.. figure:: static/keybase-join.png
+.. figure:: static/user-dashboard.png
 
 With this screen you’re finally able to send encrypted messages and have a public place to verify all your other accounts. Please get your `GitHub`_ and `Twitter`_ identity accounts approved. 
 
+.. _GitHub: https://github.com/
 
-
-
+.. _Twitter: https://twitter.com/
 
 
 

@@ -240,7 +240,7 @@ Enter your email address, username (easiest to use your rocketchat alias), and c
 
 .. figure:: static/keybase-join.png
 
-Click on ``Activate``.
+Click on ``Activate!``.
 
 STEP 4
 -------

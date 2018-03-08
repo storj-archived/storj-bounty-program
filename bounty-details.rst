@@ -195,4 +195,4 @@ All requests should go to bounty@storj.io.
 How Nontechnical Bounties are Reviewed
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-There is a committee of 6 people that review requests once a week on Thursdays at 6pm-7pm UTC. We will send a reply on Thursdays to notify you of the decision. Please check out the section :ref:`How to get paid`
+There is a committee of 6 people that review requests once a week on Thursdays at 6pm-7pm UTC. We will send a reply on Thursdays to notify you of the decision. Please check out the section ``How to Get Paid``.

@@ -216,7 +216,7 @@ Setup for GPG Signature
 STEP 1
 -------
 
-`Keybase`_ provides public keys that can be trusted without you having to talk to the person of interest. If you don't have an account, you can get started by creating a new account on the `Keybase homepage`_. Click on Login on the right side of the headers:
+`Keybase`_ provides public keys that can be trusted without you having to talk to the person of interest. If you don't have an account, you can get started by creating a new account on the `Keybase homepage`_. Click on :Login: on the right side of the headers:
 
 .. figure:: static/keybase-homepage.png
 

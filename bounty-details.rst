@@ -245,26 +245,26 @@ Click on ``Activate!``.
 STEP 4
 -------
 
-After you've clicked on the ``Activate`` button, you should be navigated to a dashboard like this:
+After you've clicked on the ``Activate!`` button, you should be navigated to a dashboard like this:
 
 .. figure:: static/keybase-dashboard.png
 
-Click on ``Add a GPG Key``.
+Click on ``add a PGP Key``.
 
 STEP 5
 -------
 
  You should get the following pop-up:
 
-.. figure:: static/keybase-join.png
+.. figure:: static/keybase-pgp-key.png
 
-If you have a GPG key, you can enter it via the option :I have one already:. In this tutorial, we assume you don’t have one and need a public key. Please click on :I need a public key: to proceed.
+If you have a PGP key, you can enter it via the option ``I have one already``. In this tutorial, we assume you don’t have one and need a public key. Please click on ``I need a public key`` to proceed.
 
 STEP 6
 -------
-After you've clicked on one of the options from :STEP 5:,you should see this: 
+After you've clicked on ``I need a public key``, you should see this: 
 
-.. figure:: static/keybase-join.png
+.. figure:: static/keybase-generate-key.png
 
 Enter your full name, email address you signed up with, and any other email aliases you would like to add. Afterwards, enter your highly secure passphrase correctly in the field and click on :Let the math begin:.
 

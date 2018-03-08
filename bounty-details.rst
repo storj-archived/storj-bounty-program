@@ -254,7 +254,7 @@ Click on ``add a PGP Key``.
 STEP 5
 -------
 
- You should get the following pop-up:
+You should get the following pop-up:
 
 .. figure:: static/keybase-pgp-key.png
 
@@ -262,11 +262,10 @@ If you have a PGP key, you can enter it via the option ``I have one already``. I
 
 STEP 6
 -------
+
 After you've clicked on ``I need a public key``, you should see this: 
 
 .. figure:: static/keybase-generate-key.png
-
-Enter your full name, email address you signed up with, and any other email aliases you would like to add. Afterwards, enter your highly secure passphrase correctly in the field and click on :Let the math begin:.
 
 STEP 7
 -------

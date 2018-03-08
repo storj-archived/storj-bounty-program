@@ -274,7 +274,7 @@ Wait until some magic has been done in the background. You'll get a display with
 
 Click on :Done post to Keybase:. Now you have successfully created a GPG Key and linked it to your account. The Dashboard should change to look like this:
 
-.. figure:: static/user-dashboard.JPG
+.. figure:: static/user-dashboard.png
 
 With this screen you’re finally able to send encrypted messages and have a public place to verify all your other accounts. Please get your `GitHub`_ and `Twitter`_ identity accounts approved. 
 

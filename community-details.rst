@@ -49,9 +49,3 @@ Following our social media accounts is the best way to see what's new with Storj
 .. _Facebook: https://www.facebook.com/storjproject/
 .. _Telegram: https://t.me/storjproject
 .. _Instagram: https://www.instagram.com/storjproject/
-
-
-
-
-
-

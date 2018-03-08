@@ -234,16 +234,15 @@ Click on Login at the right hand side on the header and you should see this pop-
 STEP 3
 -------
 
-Click on Join Keybase which should bring you up to the following screen:
+Click on Join Keybase. Enter your email address, username (easiest to use your rocketchat alias), and choose a strong passphrase. Do not use create easy, hackable passwords like `123456`. After your information is entered, the screen should look something like this:
 
 .. figure:: static/keybase-join.png
 
 STEP 4
 -------
+Click on :Activate:. You should be navigated to a dashboard like this:
 
-Enter your email address, username (easiest to use your rocketchat alias), and choose a strong passphrase (do not use create passwords, like `123456` or anything similar). Afterwards you should have a dashboard that looks like:
-
-.. figure:: static/keybase-join.png
+.. figure:: static/keybase-dashboard.png
 
 STEP 5
 -------

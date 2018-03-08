@@ -249,6 +249,7 @@ After you've clicked on the ``Activate!`` button, you should be navigated to a d
 
 .. figure:: static/keybase-dashboard.png
 
+
 Click on ``add a PGP Key``.
 
 STEP 5

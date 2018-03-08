@@ -212,4 +212,6 @@ After you submitted content you've done, it's time to get paid! You will need to
 Setup for GPG Signature
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-more stuff
+    - .. figure:: static/keypase-homepage.png
+
+         This is a short caption for a figure.

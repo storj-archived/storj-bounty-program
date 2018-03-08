@@ -219,8 +219,12 @@ Setup for GPG Signature
 
 	Keybase homepage
 
-
 .. _Keybase: https://keybase.io/docs/server_security/following
-https://twitter.com/
 
 .. _Keybase homepage: https://keybase.io/
+
+
+
+
+
+

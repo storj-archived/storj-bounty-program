@@ -224,8 +224,13 @@ STEP 1
 
 .. _Keybase homepage: https://keybase.io/
 
+STEP 2
+-------
 
+Click on Login at the right hand side on the header and you should see this pop-up:
 
+.. figure:: static/keybase-login-screen.png
 
-
+STEP 3
+-------
 

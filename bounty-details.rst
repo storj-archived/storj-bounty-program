@@ -278,9 +278,25 @@ Shortly after, you'll get a screen where you should enter your name and email ad
 
 Click on ``Let the math begin``.
 
-Click on :Done post to Keybase:. Now you have successfully created a GPG Key and linked it to your account. The Dashboard should change to look like this:
+STEP 7
+-------
 
-.. figure:: static/user-dashboard.png
+After you've click, there is going to be some magic that happens in the background:
+
+.. figure:: static/keybase-associate-account.png
+
+After a minute or so you'll see your public key:
+
+.. figure:: static/keybase-done.png
+
+Click on ``Done post to Keybase``.
+
+STEP 8
+-------
+
+You have successfully created a GPG Key and linked it to your account. The Dashboard should change to look like this:
+
+.. figure:: static/keybase-final-dashboard.png
 
 With this screen you’re finally able to send encrypted messages and have a public place to verify all your other accounts. Please get your `GitHub`_ and `Twitter`_ identity accounts approved. 
 

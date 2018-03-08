@@ -238,7 +238,7 @@ STEP 3
 
 Enter your email address, username (easiest to use your rocketchat alias), and choose a strong passphrase. Do not use create easy, hackable passwords like `123456`. After your information is entered, the screen should look something like this:
 
-.. figure:: static/keybase-dashboard.png
+.. figure:: static/keybase-join.png
 
 Click on ``Activate!``.
 

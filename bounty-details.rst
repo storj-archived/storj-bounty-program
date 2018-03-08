@@ -247,8 +247,7 @@ STEP 4
 
 After you've clicked on the ``Activate!`` button, you should be navigated to a dashboard like this:
 
-.. figure:: static/keybase-dashboard.jpg
-
+.. image:: static/keybase-dashboard.jpg
 
 Click on ``add a PGP Key``.
 

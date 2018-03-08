@@ -206,8 +206,6 @@ It’s our policy that any financial transactions submitted, must go through an 
 .. _Rocket Chat: https://storj.io/community.html
 
 
-* :ref:`Setup for GPG Signature`
-
 STEP 1: Navigate to the Keybase homepage
 ----------------------------------------
 

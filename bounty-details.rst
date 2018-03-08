@@ -213,11 +213,12 @@ It’s our policy that any financial transactions submitted, must go through an 
 Setup for GPG Signature
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-`Keybase`_ provides public keys that can be trusted without you having to talk to the person of interest. If you don't have an account, you can get started by creating a new account on the `Keybase homepage`_.
+STEP 1
+-------
+
+`Keybase`_ provides public keys that can be trusted without you having to talk to the person of interest. If you don't have an account, you can get started by creating a new account on the `Keybase homepage`_:
 
 .. figure:: static/keybase-homepage.png
-
-	Keybase homepage
 
 .. _Keybase: https://keybase.io/docs/server_security/following
 

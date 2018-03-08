@@ -234,3 +234,59 @@ Click on Login at the right hand side on the header and you should see this pop-
 STEP 3
 -------
 
+Click on Join Keybase which should bring you up to the following screen:
+
+.. figure:: static/keybase-join.png
+
+STEP 4
+-------
+
+Enter your email address, username (easiest to use your rocketchat alias), and choose a strong passphrase (do not use create passwords, like `123456` or anything similar). Afterwards you should have a dashboard that looks like:
+
+.. figure:: static/keybase-join.png
+
+STEP 5
+-------
+
+Now click on :Add a GPG Key:. You should get the following pop-up:
+
+.. figure:: static/keybase-join.png
+
+If you have a GPG key, you can enter it via the option :I have one already:. In this tutorial, we assume you don’t have one and need a public key. Please click on :I need a public key: to proceed.
+
+STEP 5
+-------
+After you've clicked on one of the options from :STEP 5:,you should see this: 
+
+.. figure:: static/keybase-join.png
+
+Enter your full name, email address you signed up with, and any other email aliases you would like to add. Afterwards, enter your highly secure passphrase correctly in the field and click on :Let the math begin:.
+
+STEP 7
+-------
+Shortly after, you should see an image like this:
+
+.. figure:: static/keybase-join.png
+
+Wait until some magic has been done in the background. You'll get a display with a message like this:
+
+.. figure:: static/keybase-join.png
+
+Click on :Done post to Keybase:. Now you have successfully created a GPG Key and linked it to your account. The Dashboard should change to look like this:
+
+.. figure:: static/keybase-join.png
+
+With this screen you’re finally able to send encrypted messages and have a public place to verify all your other accounts. Please get your `GitHub`_ and `Twitter`_ identity accounts approved. 
+
+
+
+
+
+
+
+
+
+
+
+
+

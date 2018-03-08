@@ -210,11 +210,9 @@ It’s our policy that any financial transactions submitted, must go through an 
 
 .. _Setup for GPG Signature: 
 
-Setup for GPG Signature
-~~~~~~~~~~~~~~~~~~~~~~~
 
-STEP 1
--------
+STEP 1: Navigate to the Keybase homepage
+----------------------------------------
 
 `Keybase`_ provides public keys that can be trusted without you having to talk to the person of interest. If you don't have an account, you can get started by creating a new account on the `Keybase homepage`_. Click on ``Login`` on the right side of the headers:
 
@@ -302,11 +300,3 @@ With this screen you’re finally able to send encrypted messages and have a pub
 .. _GitHub: https://github.com/
 
 .. _Twitter: https://twitter.com/
-
-
-
-
-
-
-
-

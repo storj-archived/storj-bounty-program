@@ -208,9 +208,6 @@ It’s our policy that any financial transactions submitted, must go through an 
 
 * :ref:`Setup for GPG Signature`
 
-.. _Setup for GPG Signature: 
-
-
 STEP 1: Navigate to the Keybase homepage
 ----------------------------------------
 

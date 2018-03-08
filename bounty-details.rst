@@ -268,15 +268,15 @@ After you've clicked on ``I need a public key``, you should see this:
 
 .. figure:: static/keybase-generate-key.png
 
+Click on ``Ok, got it``.
+
 STEP 7
 -------
-Shortly after, you should see an image like this:
+Shortly after, you'll get a screen where you should enter your name and email address(es) you want to associate with your public key. After you've filled out the information, it should look like this:
 
-.. figure:: static/keybase-join.png
+.. figure:: static/keybase-add-account.png
 
-Wait until some magic has been done in the background. You'll get a display with a message like this:
-
-.. figure:: static/keybase-join.png
+Click on ``Let the math begin``.
 
 Click on :Done post to Keybase:. Now you have successfully created a GPG Key and linked it to your account. The Dashboard should change to look like this:
 

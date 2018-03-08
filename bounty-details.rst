@@ -200,9 +200,10 @@ There is a committee of 6 people that review requests once a week on Thursdays a
 
 GPG Signatures
 ---------------
-After you submitted content you've done, it's time to get paid! You will need to send an encrypted email of your ERC20 address to bounty.payments@storj.io. If you do not send an encrypted email, you will not get paid.  If you need help with setting up GPG signatures, please reach out on `Rocket Chat`_ , specifically the #gpg-signature channel. 
 
-.. _Rocket Chat: https://community.storj.io/home
+It’s our policy that any financial transactions submitted, must go through an extra layer of security to prevent phishing and scamming. We’ve added an additional layer of security to prevent this. One way to prove an identity is through Keybase via GPG signed messaging. Please follow the guide below to get setup. If you have additional questions, please reach out on `Rocket Chat`_ , specifically the #gpg-signature channel. 
+
+.. _Rocket Chat: https://storj.io/community.html
 
 
 * :ref:`Setup for GPG Signature`
@@ -212,6 +213,14 @@ After you submitted content you've done, it's time to get paid! You will need to
 Setup for GPG Signature
 ~~~~~~~~~~~~~~~~~~~~~~~
 
+`Keybase`_ provides public keys that can be trusted without you having to talk to the person of interest. If you don't have an account, you can get started by creating a new account on the `Keybase homepage`_.
+
 .. figure:: static/keybase-homepage.png
 
-	This is a short caption for a figure.
+	Keybase homepage
+
+
+.. _Keybase: https://keybase.io/docs/server_security/following
+https://twitter.com/
+
+.. _Keybase homepage: https://keybase.io/

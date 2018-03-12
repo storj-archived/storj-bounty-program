@@ -10,19 +10,19 @@ Check this page daily - you’ll never know what promotional bounty we may list!
 
 .. _Storj labs: http://storj.io/
 
-There are five main sections to help you on your journey to complete the bounty:
+There are six main sections to be familiarized with:
 
 .. toctree::
    :maxdepth: 2
 
    bounty-details
+   how-to-get-paid
    community-details
    company-updates
    code-of-conduct
    license
 
-Please familiarize yourselves with these sections. If you have any questions,
-reach out on `rocketchat`_. 
+If you have any questions, reach out on `rocketchat`_. 
 
  .. _rocketchat: https://community.storj.io/
 
